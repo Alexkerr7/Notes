@@ -16,3 +16,4 @@ If you want to see what the options are, or want to find how to format something
 
 We started with Git and GitHub.
 Then we went to chapter 2.
+Alex Kerr
