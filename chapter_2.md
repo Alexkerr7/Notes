@@ -101,6 +101,6 @@ What would our algorithm look like to sum the numbers from 1 to 50?  from 1 to a
 How do we approach stoping a loop?  The most common is to use a variable to count up from 0 and test if it is less than a vlue equal to the number of times you want the loop to hapen.
 
 The book describes this and two other methods of using a loops test to stop the computer from going into the loop again.
-
+Alex Kerr
 ##### Combining these control structures:
 
